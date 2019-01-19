@@ -17,7 +17,7 @@
 #define VERSION_MINOR               1
 
 #define VER_COMPANYNAME_STR         "Imitation Camel"
-#define VER_FILE_DESCRIPTION_STR    "A plugin for the Skyrim Script Extender"
+#define VER_FILE_DESCRIPTION_STR    "A plugin for the Skyrim Script Extender 64"
 #define VER_FILE_VERSION            VERSION_MAJOR, VERSION_MINOR, VERSION_REVISION, VERSION_BUILD
 #define VER_FILE_VERSION_STR        STRINGIZE(VERSION_MAJOR)        \
                                     "." STRINGIZE(VERSION_MINOR)    \
@@ -30,7 +30,7 @@
 #define VER_ORIGINAL_FILENAME_STR	VER_PRODUCTNAME_STR ".dll"
 #define VER_INTERNAL_NAME_STR       VER_ORIGINAL_FILENAME_STR
 
-#define VER_COPYRIGHT_STR           "Copyright shadeMe (C) 2012"
+#define VER_COPYRIGHT_STR           "Copyright Mator (c) 2019"
 
 #ifdef _DEBUG
   #define VER_VER_DEBUG             VS_FF_DEBUG
